@@ -1,0 +1,9 @@
+Docker-compose
+Gitlab for CICD
+Redis for mem caching
+
+Plugins:
+JavaDoc
+Swagger for API document
+
+Updating...

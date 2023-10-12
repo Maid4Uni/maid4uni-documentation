@@ -1,0 +1,10 @@
+"Hệ thống phần mềm cung cấp các gói dịch vụ cho căn hộ sinh viên. Mỗi căn hộ sẽ mua các package dịch vụ được thiết kế sẵn. 
+Mỗi package có thể bao gồm: quét dọn, vệ sinh, giao nước ... Mỗi gói dịch vụ có ràng buộc về thời gian sử dụng, chu kì lặp lại, 
+số lượng dịch vụ theo chu kì... Khi sử dụng hết các dịch vụ trong gói vẫn có thể đặt thêm, giá của dịch vụ đặt thêm phụ thuộc vào loại gói dịch vụ đã mua. 
++ Admin quản lý duoc các dịch vụ đơn lẻ, gói dịch vụ (bao gồm các dịch vụ lẻ)...
++ Staff thực hiện các công việc và cập nhật kết quả các dịch vụ 
++ Customer đặt hàng và theo dõi các dịch vụ đã sử dụng"
+
++) Adding:
++ Manger quản lý, sắp xếp, theo dõi công việc của staff
++ Customer có thể sử dụng voucher do Manager cung cấp
